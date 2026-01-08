@@ -14,3 +14,5 @@
 WEEKPOINTCRUSHER
 
 とげよけ
+
+roguelike
